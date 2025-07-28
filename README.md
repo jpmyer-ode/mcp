@@ -2,6 +2,7 @@
 
 To install the 'add_tool' MCP server, run the following mcp command:
 
+```json
 {
   "mcpServers": {
   "add_tool": {
@@ -13,5 +14,6 @@ To install the 'add_tool' MCP server, run the following mcp command:
     ]
   }
 }
+```
 
 This will fetch and setup the 'mcp-server' from the specified GitHub repository
